@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Zafer 👋
 
-<!--
-**zaferertasglobal-hub/zaferertasglobal-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer based in Germany 🇩🇪  
+🚀 Backend Developer | Python | Node.js | Rust  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 5+ years experience in software development  
+- Focused on backend systems & automation  
+- Passionate about scalable systems and APIs  
+
+---
+
+## 🔧 Tech Stack
+- Languages: Python, JavaScript, Rust, Java, C#
+- Backend: Node.js, Express, FastAPI, Spring
+- Tools: Docker, Git, Selenium, Postman
+- Databases: SQL, SQLite, MS SQL  
+
+---
+
+## 🚀 Projects
+- 🔹 Job Analyzer Tool (Python)
+- 🔹 Scalable Auth API (Node.js)
+- 🔹 Async Web App (Rust)
+
+---
+
+## 📍 Currently
+- 📍 Based in Dortmund, Germany
+- 🎯 Looking for Werkstudent opportunities  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/zaferertas/
+- Email: zaferertasglobal@gmail.com
