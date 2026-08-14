@@ -29,7 +29,7 @@
 
 ## 📍 Currently
 - 📍 Based in Dortmund, Germany
-- 🎯 Looking for Werkstudent opportunities  
+- 🎯 Looking for Java opportunities  
 
 ---
 
